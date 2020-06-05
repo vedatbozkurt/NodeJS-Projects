@@ -25,10 +25,6 @@ npm run serve
 npm run build
 ```
 
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ## Security Vulnerabilities
 
 If you would like to report an error, ask a question or offer a suggestion, please e-mail me at [info@wedat.org](info@wedat.org). All security vulnerabilities will be promptly addressed.
