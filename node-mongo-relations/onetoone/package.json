@@ -1,0 +1,15 @@
+{
+  "name": "onetoone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "dependencies": {
+    "mongoose": "^5.9.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wedat",
+  "license": "ISC"
+}
